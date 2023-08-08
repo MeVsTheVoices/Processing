@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 out/*
-.vscode/*
-=======
+.vscode/*git 
 .DS_Store
 applet
 application.linux-arm64
@@ -12,4 +10,3 @@ application.windows32
 application.windows64
 application.macosx
 out
->>>>>>> cb49e3cabbcd9f57eca57d199a2c3ee7bd8550da
